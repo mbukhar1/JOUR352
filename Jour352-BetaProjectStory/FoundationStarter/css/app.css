@@ -1,0 +1,26 @@
+.introBox {
+	background-color: lightgray;
+	font-weight: strong;
+	text-align: center;
+}
+h1 {color:darkred;
+ font-family: 'Roboto Slab', serif;
+}
+h2 {color: darkred;
+font-family: 'Roboto Slab', serif;}
+.sidebarstyle {
+	background-color: lightgray;
+}
+h3 {font-weight: strong;
+	color: darkblue;
+font-family: 'Roboto Slab', serif;}
+h6 {color:darkblue;
+ font-family: 'Roboto Slab', arial;
+}
+body {font-family: 'Roboto Slab', arial;
+	background-color: gray
+}
+p {color: black;
+font-family:'Roboto Slab', arial;
+text-align: left
+}
